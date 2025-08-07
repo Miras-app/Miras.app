@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <title>Сертификат 8805 — Miras.app</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, sans-serif;
+            background: #f8f9fa;
+            color: #333;
+            padding: 40px;
+            margin: 0;
+        }
+
+        .container {
+            background: #ffffff;
+            max-width: 700px;
+            margin: auto;
+            padding: 40px;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+            border-radius: 12px;
+        }
+
+        h1 {
+            text-align: center;
+            color: #2c3e50;
+            margin-bottom: 24px;
+        }
+
+        p {
+            font-size: 18px;
+            line-height: 1.6;
+        }
+
+        .info {
+            margin-top: 30px;
+            padding-top: 20px;
+            border-top: 1px solid #ccc;
+            font-size: 16px;
+        }
+
+        .footer {
+            text-align: center;
+            font-size: 14px;
+            color: #888;
+            margin-top: 40px;
+        }
+
+        @media (max-width: 600px) {
+            body {
+                padding: 20px;
+            }
+
+            .container {
+                padding: 20px;
+            }
+
+            p {
+                font-size: 16px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>СЕРТИФИКАТ</h1>
+
+        <p><strong>Ниязматова Луиза</strong> окончил(а) курс повышения квалификации по теме:</p>
+
+        <p><em>«EduCampShym» — летний профориентационный лагерь</em></p>
+
+        <p>в объеме <strong>16 академических часов</strong></p>
+
+        <div class="info">
+            <p><strong>Рег. номер:</strong> 8805</p>
+            <p><strong>Итоговая оценка:</strong> 100 (A)</p>
+            <p><strong>Дата начала обучения:</strong> 09.06.2025</p>
+            <p><strong>Дата завершения обучения:</strong> 20.06.2025</p>
+            <p><strong>Дата выдачи:</strong> 07.07.2025</p>
+        </div>
+
+        <div class="footer">
+            Miras.app
+        </div>
+    </div>
+</body>
+</html>
